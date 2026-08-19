@@ -1,0 +1,16 @@
+{
+  "type": "Code",
+  "modid": "tanningrack",
+  "name": "Tanning Rack",
+  "version": "0.1.0",
+  "networkVersion": "0.1.0",
+  "description": "Development workspace for a physical hide-processing and tanning rack system.",
+  "authors": ["Kilroy"],
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
+  "dependencies": {
+    "game": "1.22.6",
+    "survival": "1.22.6"
+  }
+}

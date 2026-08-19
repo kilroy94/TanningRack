@@ -1,0 +1,16 @@
+{
+  "dotnet.defaultSolution": "TanningRack.csproj",
+  "files.exclude": {
+    "**/.research": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/build": true
+  },
+  "search.exclude": {
+    "**/.research": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/build": true,
+    "**/artifacts": true
+  }
+}

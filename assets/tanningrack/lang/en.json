@@ -1,0 +1,13 @@
+{
+  "block-tanningrack": "Tanning Rack",
+  "item-test-raw-hide": "Test Raw Hide",
+  "item-test-dried-hide": "Test Dried Hide",
+  "item-test-workable-hide": "Test Workable Hide",
+  "item-test-scraped-hide": "Test Scraped Hide",
+  "contents-empty": "Empty",
+  "drying-progress": "Drying progress: {0}%",
+  "drying-speed": "Drying speed: {0:0.##}x",
+  "blockhelp-place": "Place a compatible hide",
+  "blockhelp-take": "Take the hide",
+  "blockhelp-process": "Work the hide with the held tool"
+}
