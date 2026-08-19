@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <VintageStoryInstallDir Condition="'$(VintageStoryInstallDir)' == '' and '$(VINTAGE_STORY)' != ''">$(VINTAGE_STORY)</VintageStoryInstallDir>
+    <VintageStoryInstallDir Condition="'$(VintageStoryInstallDir)' == ''">$([System.IO.Path]::Combine($([System.Environment]::GetFolderPath(System.Environment+SpecialFolder.ApplicationData)), 'Vintagestory'))</VintageStoryInstallDir>
+  </PropertyGroup>
+</Project>

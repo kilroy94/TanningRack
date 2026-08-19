@@ -1,0 +1,20 @@
+# Build and package output
+bin/
+obj/
+artifacts/
+build/
+
+# Local research/decompilation output
+.research/
+.runtime-test/
+
+# Machine-local configuration
+Directory.Build.props.user
+.env
+
+# Editors and operating systems
+.vs/
+*.user
+*.suo
+.DS_Store
+Thumbs.db

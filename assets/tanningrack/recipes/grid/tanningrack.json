@@ -1,0 +1,16 @@
+{
+  "ingredientPattern": "S_S\tS_S\tSSS",
+  "ingredients": {
+    "S": {
+      "type": "item",
+      "code": "game:stick"
+    }
+  },
+  "width": 3,
+  "height": 3,
+  "output": {
+    "type": "block",
+    "code": "tanningrack:tanningrack",
+    "stackSize": 1
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "code": "test-scraped-hide",
+  "creativeinventory": {
+    "general": ["*"],
+    "items": ["*"]
+  },
+  "maxstacksize": 16,
+  "shape": {
+    "base": "game:item/resource/hide/medium2"
+  },
+  "textures": {
+    "furside": { "base": "game:item/resource/hide/scraped" },
+    "fleshside": { "base": "game:item/resource/hide/scraped" }
+  },
+  "attributes": {
+    "onTanningRackTransform": {
+      "translation": { "x": 0, "y": 0, "z": 0.485 },
+      "rotation": { "x": 90, "y": 0, "z": 0 },
+      "origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+      "scale": 0.58
+    }
+  },
+  "guiTransform": {
+    "rotation": { "x": 90, "y": 0, "z": 0 },
+    "origin": { "x": 0.5, "y": 0.5, "z": 0.5 },
+    "scale": 0.8
+  }
+}
